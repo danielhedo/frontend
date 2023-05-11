@@ -1,0 +1,33 @@
+/*Debería verse bien en pantallas de 14" y en pantallas de 24"*/
+
+.tituloBlog
+{
+    align-items: center;
+    /*display: flex;*/
+    
+    justify-content: center;
+    padding-right: 0%;
+}
+
+h3
+{
+    text-align: center;
+    margin-top: 1%;
+}
+
+h6
+{
+    font-style: italic;
+}
+
+.contentblog
+{
+    text-align: justify;    
+    margin-top: 1%;
+    padding-left: 50%;
+}
+
+.imagen-blog {
+    width: 150px;
+    height: 150px;
+  }

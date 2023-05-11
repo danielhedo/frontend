@@ -1,0 +1,33 @@
+ 
+ /*Debería verse bien en pantallas de 14" y en pantallas de 24"*/
+ .App
+ {
+  background-color: #f3f3f3;
+  padding-left: 17%;
+  padding-right: 17%;
+  padding-top: 1%;
+  padding-top: 1%;
+ }
+ 
+ .paginageneral
+ {
+    background-color: white;
+    padding: 3%;
+    padding-right: 5%;
+ }
+
+ .contentText
+ {
+    text-align: justify;
+ }
+
+ .textodestacado
+ {
+    font-weight: bold;
+    text-decoration: underline;
+ }
+
+ .carrusel
+ {
+   width: 50%;
+ }
